@@ -1,4 +1,4 @@
-# Welcome to HacktoberFest- 2023 Repository
+# Welcome to HackFesT-2023 Repository
 
 ## Hacktoberfest 2023
 
